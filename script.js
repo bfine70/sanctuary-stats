@@ -11,8 +11,10 @@
 let bert;
 let ernie;
 
-function parse(input) {
-	Papa.parse(input.files[0], {
+async function parse() {
+	const response = await fetch("data.csv");
+	const data = await response.text();
+	Papa.parse(data, {
 		dynamicTyping: true,
 		header: true,
 		complete: function (results, _) {
@@ -23,6 +25,8 @@ function parse(input) {
 		}
 	});
 }
+
+window.addEventListener("load", parse);
 
 function reset() {
 	bert = ernie.copy();

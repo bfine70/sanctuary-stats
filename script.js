@@ -12,7 +12,6 @@ let bert;
 let ernie;
 
 async function parse() {
-	console.log("Working");
 	const response = await fetch("data.csv");
 	const data = await response.text();
 	Papa.parse(data, {
@@ -27,6 +26,7 @@ async function parse() {
 	});
 }
 
+console.log("Working");
 window.addEventListener("load", parse);
 
 function reset() {

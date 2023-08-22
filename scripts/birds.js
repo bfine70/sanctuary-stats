@@ -569,3 +569,5 @@ class Birds {
 	}
 
 } // TODO: Update bird.size on bird[column].push(val)
+
+window.Birds = Birds;

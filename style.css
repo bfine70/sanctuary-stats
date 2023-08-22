@@ -1,0 +1,157 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    color: white;
+    background-color: #121212;
+    font-family: sans-serif;
+    font-size: 0.875em;
+}
+
+a {
+    color: #206FEB;
+}
+
+header {
+    align-items: center;
+    background-color: #232323;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.icon {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+button {
+    width: 50px;
+    height: 30px;
+}
+
+select {
+    text-align: center;
+    width: 100px;
+    height: 30px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 10px;
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 500px;
+}
+
+.card-long {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 1010px;
+}
+
+.card-body-long {
+    background-color: #1e1e1e;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 1030px) {
+    .card-long {
+      width: 500px;
+    }
+}
+
+.card-header {
+    background-color: #232323;
+    border-bottom: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 10px;
+}
+
+.card-body {
+    background-color: #1e1e1e;
+    /* border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; */
+    padding: 10px;
+}
+
+.card-footer {
+    background-color: #232323;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top: 1px solid black;
+    padding: 10px;
+}
+
+footer {
+    align-items: center;
+    background-color: #232323;
+    border-top: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #232323;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 60px;
+}
+
+#snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+  
+@-webkit-keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 60px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 60px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {top: 60px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {top: 60px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}

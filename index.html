@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="sanctuarypdh.ico">
+    <title>SanctuaryStats</title>
+    <meta name="description" content="A dashboard page with card grid layout">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+
+    <div id="snackbar"></div>
+
+    <header>
+        <div class="container">
+            <img src="sanctuarypdh.png" alt="Sanctuary PDH Logo" class="icon">
+            <h2>SanctuaryStats</h2>
+        </div>
+        <div class="container">
+            <select name="start-date" id="start-date" onchange=charts()></select>
+            <select name="end-date" id="end-date" onchange=charts()></select>
+            <button onclick="reset()">Reset</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="row">
+            <div class="card-long">
+                <div class="card-header">
+                    <h3>Welcome!</h3>
+                </div>
+                <div class="card-body-long">
+                    <p>Welcome to the SanctuaryStats dashboard! Use the dropdowns in the top right corner to filter the
+                        charts by Start Date and End Date. You can also click on any chart element to apply additional
+                        filters. To remove all filters and start over, simply click the Reset button. Explore the data
+                        and discover new insights!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="card">
+                <div class="card-header">
+                    <h3>Commanders</h3>
+                </div>
+                <div class="card-body">
+                    <figure id="commander-bar"></figure>
+                </div>
+                <div class="card-footer">
+                    <p>The top 15 commanders, sorted by number of wins.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <h3>Players</h3>
+                </div>
+                <div class="card-body">
+                    <figure id="player-bar"></figure>
+                </div>
+                <div class="card-footer">
+                    <p>The top 15 players, sorted by number of wins.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="card">
+                <div class="card-header">
+                    <h3>Popular Archetypes</h3>
+                </div>
+                <div class="card-body">
+                    <figure id="archetype-pie"></figure>
+                </div>
+                <div class="card-footer">
+                    <p>The top archetypes, sorted by popularity.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <h3>Winningest Archetypes</h3>
+                </div>
+                <div class="card-body">
+                    <figure id="archetype-bar"></figure>
+                </div>
+                <div class="card-footer">
+                    <p>The top archetypes, sorted by winningness.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="card">
+                <div class="card-header">
+                    <h3>Popular Colors</h3>
+                </div>
+                <div class="card-body">
+                    <figure id="color-pie"></figure>
+                </div>
+                <div class="card-footer">
+                    <p>The top colors, sorted by popularity.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <h3>Winningest Colors</h3>
+                </div>
+                <div class="card-body">
+                    <figure id="color-bar"></figure>
+                </div>
+                <div class="card-footer">
+                    <p>The top archetypes, sorted by winningness.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="card-long">
+                <div class="card-header">
+                    <h3>FAQs</h3>
+                </div>
+                <div class="card-body-long">
+                    <h4>What is winningness?</h4>
+                    <p>Winningness measures measures performance against
+                        expectations. For example, something with +5.0% winningness performs 5.0% better than expected.
+                    </p>
+                        <br>
+                    <h4>Can I submit games?</h4>
+                    <p>You can submit games here: <a href="https://dyno.gg/form/c87c8330"
+                            target="_blank">https://dyno.gg/form/c87c8330</a></p>
+                    <br>
+                    <h4>Can I download the
+                        data?</h4>
+                    <p>You can download the data here: <a href="data.csv" download="data">data.csv</a></p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <input type="file" onchange=parse(this)>
+        <div class="container">
+            <img src="bodarnn.jpg" alt="Bodarnn Logo" class="icon">
+            <p>Bodarnn</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

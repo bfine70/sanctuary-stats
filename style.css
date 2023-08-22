@@ -110,7 +110,7 @@ footer {
     background-color: #232323;
     border-top: 1px solid black;
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
     padding: 10px;
 }
 

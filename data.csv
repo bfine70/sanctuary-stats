@@ -1,351 +1,351 @@
 Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
-1,1,CelticMajora,Satyr Enchanter,Midrange,Selesnya,05/13/2023,Sanctuary Open I,9
-1,2,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,05/13/2023,Sanctuary Open I,9
-1,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,9
-1,4,Chinaman,"Dargo, the Shipwrecker // Keleth, Sunmane Familiar",Voltron,Boros,05/13/2023,Sanctuary Open I,9
-1,Winner,Chinaman,"Dargo, the Shipwrecker // Keleth, Sunmane Familiar",Voltron,Boros,05/13/2023,Sanctuary Open I,9
-2,1,CardinalFrosty,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,9
-2,2,Manilamidget,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,9
-2,3,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,9
-2,4,Kunx,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,05/13/2023,Sanctuary Open I,9
-2,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,9
-3,1,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,5
-3,2,Ebshinee,"Fynn, the Fangbearer",Midrange,Green,05/13/2023,Sanctuary Open I,5
-3,3,Skorish,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,5
-3,4,Ariya,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,5
-3,Winner,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,5
-4,1,Jo,Parcelbeast,Combo,Simic,05/13/2023,Sanctuary Open I,9
-4,2,PapaPauper,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,9
-4,3,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,9
-4,4,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,9
-4,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,9
-5,1,PapaPauper,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,7
-5,2,Chinaman,"Dargo, the Shipwrecker // Keleth, Sunmane Familiar",Voltron,Boros,05/13/2023,Sanctuary Open I,7
-5,3,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,7
-5,4,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,7
-5,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,7
-6,1,Skorish,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,
-6,2,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,05/13/2023,Sanctuary Open I,
-6,3,Manilamidget,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,
-6,4,Jo,Parcelbeast,Combo,Simic,05/13/2023,Sanctuary Open I,
-6,Winner,,,,,05/13/2023,Sanctuary Open I, 
-7,1,CelticMajora,Satyr Enchanter,Midrange,Selesnya,05/13/2023,Sanctuary Open I,10
-7,2,Kunx,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,05/13/2023,Sanctuary Open I,10
-7,3,Ariya,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,10
-7,4,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,10
-7,Winner,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,10
-8,1,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,7
-8,2,Ebshinee,"Fynn, the Fangbearer",Midrange,Green,05/13/2023,Sanctuary Open I,7
-8,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,7
-8,4,CardinalFrosty,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,7
-8,Winner,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,7
-9,1,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,6
-9,2,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,6
-9,3,CardinalFrosty,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,6
-9,4,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,05/13/2023,Sanctuary Open I,6
-9,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,6
-10,1,Ariya,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,9
-10,2,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,9
-10,3,Manilamidget,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,9
-10,4,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,9
-10,Winner,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,9
-11,1,Jo,Parcelbeast,Combo,Simic,05/13/2023,Sanctuary Open I,
-11,2,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,
-11,3,CelticMajora,Satyr Enchanter,Midrange,Selesnya,05/13/2023,Sanctuary Open I,
-11,4,PapaPauper,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,
-11,Winner,,,,,05/13/2023,Sanctuary Open I,
-12,1,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,10
-12,2,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,05/13/2023,Sanctuary Open I,10
-12,3,PapaPauper,Third Path Iconoclast,Midrange,Izzet,05/13/2023,Sanctuary Open I,10
-12,4,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,05/13/2023,Sanctuary Open I,10
-12,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,05/13/2023,Sanctuary Open I,10
-13,1,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,08/12/2023,Sanctuary Open II,7
-13,2,Clay,Third Path Iconoclast,Combo,Izzet,08/12/2023,Sanctuary Open II,7
-13,3,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,7
-13,4,stein,"Zada, Hedron Grinder",Combo,Red,08/12/2023,Sanctuary Open II,7
-13,Winner,stein,"Zada, Hedron Grinder",Combo,Red,08/12/2023,Sanctuary Open II,7
-14,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,8
-14,2,PapaPauper,Third Path Iconoclast,Midrange,Izzet,08/12/2023,Sanctuary Open II,8
-14,3,Scooby Drew,Marsh Crocodile,Control,Dimir,08/12/2023,Sanctuary Open II,8
-14,4,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,08/12/2023,Sanctuary Open II,8
-14,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,8
-15,1,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,14
-15,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Izzet,08/12/2023,Sanctuary Open II,14
-15,3,Ankylosaur,Gretchen Titchwillow,Combo,Simic,08/12/2023,Sanctuary Open II,14
-15,4,TonisBolognis,"Cormela, Glamour Thief",Combo,Grixis,08/12/2023,Sanctuary Open II,14
-15,Winner,,,,,08/12/2023,Sanctuary Open II,14
-16,1,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,5
-16,2,Chris OMG,"Garna, Bloodfist of Keld",Midrange,Rakdos,08/12/2023,Sanctuary Open II,5
-16,3,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,5
-16,4,,,,,08/12/2023,Sanctuary Open II,5
-16,Winner,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,5
-17,1,Ankylosaur,Gretchen Titchwillow,Combo,Simic,08/12/2023,Sanctuary Open II,9
-17,2,stein,"Zada, Hedron Grinder",Combo,Red,08/12/2023,Sanctuary Open II,9
-17,3,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,9
-17,4,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,9
-17,Winner,Ankylosaur,Gretchen Titchwillow,Combo,Simic,08/12/2023,Sanctuary Open II,9
-18,1,Chris OMG,"Garna, Bloodfist of Keld",Midrange,Rakdos,08/12/2023,Sanctuary Open II,9
-18,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,08/12/2023,Sanctuary Open II,9
-18,3,PapaPauper,Third Path Iconoclast,Midrange,Izzet,08/12/2023,Sanctuary Open II,9
-18,4,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,9
-18,Winner,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,08/12/2023,Sanctuary Open II,9
-19,1,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,08/12/2023,Sanctuary Open II,9
-19,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,9
-19,3,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,08/12/2023,Sanctuary Open II,9
-19,4,,,,,08/12/2023,Sanctuary Open II,9
-19,Winner,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,9
-20,1,TonisBolognis,"Cormela, Glamour Thief",Combo,Grixis,08/12/2023,Sanctuary Open II,12
-20,2,Clay,Third Path Iconoclast,Combo,Izzet,08/12/2023,Sanctuary Open II,12
-20,3,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,12
-20,4,,,,,08/12/2023,Sanctuary Open II,12
-20,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,12
-21,1,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,08/12/2023,Sanctuary Open II,7
-21,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,08/12/2023,Sanctuary Open II,7
-21,3,stein,"Zada, Hedron Grinder",Combo,Red,08/12/2023,Sanctuary Open II,7
-21,4,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,7
-21,Winner,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,08/12/2023,Sanctuary Open II,7
-22,1,Clay,Third Path Iconoclast,Combo,Izzet,08/12/2023,Sanctuary Open II,6
-22,2,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,6
-22,3,Chris OMG,"Garna, Bloodfist of Keld",Midrange,Rakdos,08/12/2023,Sanctuary Open II,6
-22,4,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,6
-22,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,6
-23,1,PapaPauper,Third Path Iconoclast,Midrange,Izzet,08/12/2023,Sanctuary Open II,7
-23,2,Ankylosaur,Gretchen Titchwillow,Combo,Simic,08/12/2023,Sanctuary Open II,7
-23,3,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,08/12/2023,Sanctuary Open II,7
-23,4,,,,,08/12/2023,Sanctuary Open II,7
-23,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,08/12/2023,Sanctuary Open II,7
-24,1,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,6
-24,2,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,6
-24,3,TonisBolognis,"Cormela, Glamour Thief",Combo,Grixis,08/12/2023,Sanctuary Open II,6
-24,4,,,,,08/12/2023,Sanctuary Open II,6
-24,Winner,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,6
-25,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,08/12/2023,Sanctuary Open II,8
-25,2,Ankylosaur,Gretchen Titchwillow,Combo,Simic,08/12/2023,Sanctuary Open II,8
-25,3,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,08/12/2023,Sanctuary Open II,8
-25,4,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,08/12/2023,Sanctuary Open II,8
-25,Winner,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,08/12/2023,Sanctuary Open II,8
-26,1,InfamousFridge,"Kardur, Doomscourge",Control,Rakdos,11/04/2023,Sanctuary Open III,11
-26,2,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,11
-26,3,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/04/2023,Sanctuary Open III,11
-26,4,Lobbert,Thraben Watcher,Midrange,White,11/04/2023,Sanctuary Open III,11
-26,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,11
-27,1,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/04/2023,Sanctuary Open III,8
-27,2,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/04/2023,Sanctuary Open III,8
-27,3,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/04/2023,Sanctuary Open III,8
-27,4,Chaotic Chroma,Empyrean Eagle,Midrange,Azorius,11/04/2023,Sanctuary Open III,8
-27,Winner,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/04/2023,Sanctuary Open III,8
-28,1,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/04/2023,Sanctuary Open III,9
-28,2,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/04/2023,Sanctuary Open III,9
-28,3,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,11/04/2023,Sanctuary Open III,9
-28,4,Clay,Third Path Iconoclast,Combo,Izzet,11/04/2023,Sanctuary Open III,9
-28,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/04/2023,Sanctuary Open III,9
-29,1,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/04/2023,Sanctuary Open III,5
-29,2,Daxx,"Dina, Soul Steeper",Midrange,Golgari,11/04/2023,Sanctuary Open III,5
-29,3,budyfish,"Rilsa Rael, Kingpin",Control,Dimir,11/04/2023,Sanctuary Open III,5
-29,4,stein,"Zada, Hedron Grinder",Combo,Red,11/04/2023,Sanctuary Open III,5
-29,Winner,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/04/2023,Sanctuary Open III,5
-30,1,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/04/2023,Sanctuary Open III,9
-30,2,Lotad,Loyal Subordinate,Aggro,Black,11/04/2023,Sanctuary Open III,9
-30,3,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/04/2023,Sanctuary Open III,9
-30,4,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/04/2023,Sanctuary Open III,9
-30,Winner,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/04/2023,Sanctuary Open III,9
-31,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,6
-31,2,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/04/2023,Sanctuary Open III,6
-31,3,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/04/2023,Sanctuary Open III,6
-31,4,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/04/2023,Sanctuary Open III,6
-31,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,6
-32,1,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,11/04/2023,Sanctuary Open III,
-32,2,budyfish,"Rilsa Rael, Kingpin",Control,Dimir,11/04/2023,Sanctuary Open III,
-32,3,InfamousFridge,"Kardur, Doomscourge",Control,Rakdos,11/04/2023,Sanctuary Open III,
-32,4,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/04/2023,Sanctuary Open III,
-32,Winner,,,,,11/04/2023,Sanctuary Open III,
-33,1,Lotad,Loyal Subordinate,Aggro,Black,11/04/2023,Sanctuary Open III,7
-33,2,Lobbert,Thraben Watcher,Midrange,White,11/04/2023,Sanctuary Open III,7
-33,3,Clay,Third Path Iconoclast,Combo,Izzet,11/04/2023,Sanctuary Open III,7
-33,4,Daxx,"Dina, Soul Steeper",Midrange,Golgari,11/04/2023,Sanctuary Open III,7
-33,Winner,Lotad,Loyal Subordinate,Aggro,Black,11/04/2023,Sanctuary Open III,7
-34,1,Chaotic Chroma,Empyrean Eagle,Midrange,Azorius,11/04/2023,Sanctuary Open III,6
-34,2,stein,"Zada, Hedron Grinder",Combo,Red,11/04/2023,Sanctuary Open III,6
-34,3,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/04/2023,Sanctuary Open III,6
-34,4,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/04/2023,Sanctuary Open III,6
-34,Winner,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/04/2023,Sanctuary Open III,6
-35,1,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/04/2023,Sanctuary Open III,5
-35,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/04/2023,Sanctuary Open III,5
-35,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/04/2023,Sanctuary Open III,5
-35,4,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/04/2023,Sanctuary Open III,5
-35,Winner,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/04/2023,Sanctuary Open III,5
-36,1,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/04/2023,Sanctuary Open III,10
-36,2,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/04/2023,Sanctuary Open III,10
-36,3,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,10
-36,4,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/04/2023,Sanctuary Open III,10
-36,Winner,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/04/2023,Sanctuary Open III,10
-37,1,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/04/2023,Sanctuary Open III,8
-37,2,Lotad,Loyal Subordinate,Aggro,Black,11/04/2023,Sanctuary Open III,8
-37,3,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/04/2023,Sanctuary Open III,8
-37,4,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,11/04/2023,Sanctuary Open III,8
-37,Winner,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/04/2023,Sanctuary Open III,8
-38,1,Clay,Third Path Iconoclast,Combo,Izzet,11/04/2023,Sanctuary Open III,9
-38,2,stein,"Zada, Hedron Grinder",Combo,Red,11/04/2023,Sanctuary Open III,9
-38,3,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/04/2023,Sanctuary Open III,9
-38,4,InfamousFridge,"Kardur, Doomscourge",Control,Rakdos,11/04/2023,Sanctuary Open III,9
-38,Winner,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/04/2023,Sanctuary Open III,9
-39,1,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/04/2023,Sanctuary Open III,6
-39,2,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/04/2023,Sanctuary Open III,6
-39,3,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/04/2023,Sanctuary Open III,6
-39,4,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/04/2023,Sanctuary Open III,6
-39,Winner,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/04/2023,Sanctuary Open III,6
-40,1,stein,"Zada, Hedron Grinder",Combo,Red,11/04/2023,Sanctuary Open III,
-40,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/04/2023,Sanctuary Open III,
-40,3,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/04/2023,Sanctuary Open III,
-40,4,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/04/2023,Sanctuary Open III,
-40,Winner,,,,,11/04/2023,Sanctuary Open III,
-41,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,5
-41,2,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/04/2023,Sanctuary Open III,5
-41,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/04/2023,Sanctuary Open III,5
-41,4,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/04/2023,Sanctuary Open III,5
-41,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,5
-42,1,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/04/2023,Sanctuary Open III,9
-42,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/04/2023,Sanctuary Open III,9
-42,3,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/04/2023,Sanctuary Open III,9
-42,4,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/04/2023,Sanctuary Open III,9
-42,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/04/2023,Sanctuary Open III,9
-43,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,3
-43,2,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/04/2023,Sanctuary Open III,3
-43,3,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/04/2023,Sanctuary Open III,3
-43,4,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/04/2023,Sanctuary Open III,3
-43,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/04/2023,Sanctuary Open III,3
-44,1,koswynaut,"Alora, Merry Thief // Agent of the Shadow Thieves",Midrange,Dimir,03/16/2024,Sanctuary Open IV,11
-44,2,tae314,"Erinis, Gloom Stalker // Street Urchin",Control,Gruul,03/16/2024,Sanctuary Open IV,11
-44,3,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,11
-44,4,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,03/16/2024,Sanctuary Open IV,11
-44,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,11
-45,1,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,03/16/2024,Sanctuary Open IV,10
-45,2,_clay_,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,10
-45,3,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,03/16/2024,Sanctuary Open IV,10
-45,4,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,03/16/2024,Sanctuary Open IV,10
-45,Winner,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,03/16/2024,Sanctuary Open IV,10
-46,1,eb_shinee,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,10
-46,2,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,10
-46,3,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,03/16/2024,Sanctuary Open IV,10
-46,4,1337dood,"Dargo, the Shipwrecker // Keskit, the Flesh Sculptor",Combo,Rakdos,03/16/2024,Sanctuary Open IV,10
-46,Winner,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,10
-47,1,uyokonoyami,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,03/16/2024,Sanctuary Open IV,9
-47,2,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,03/16/2024,Sanctuary Open IV,9
-47,3,gatorbaittv,Azra Oddsmaker,Midrange,Rakdos,03/16/2024,Sanctuary Open IV,9
-47,4,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,03/16/2024,Sanctuary Open IV,9
-47,Winner,uyokonoyami,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,03/16/2024,Sanctuary Open IV,9
-48,1,lobbert,Sphinx Summoner,Combo,Dimir,03/16/2024,Sanctuary Open IV,8
-48,2,ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,03/16/2024,Sanctuary Open IV,8
-48,3,onemoregamemtg,"Malcolm, Keen-Eyed Navigator // Toggo, Goblin Weaponsmith",Control,Izzet,03/16/2024,Sanctuary Open IV,8
-48,4,baconmaster95,"Tatyova, Benthic Druid",Combo,Simic,03/16/2024,Sanctuary Open IV,8
-48,Winner,ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,03/16/2024,Sanctuary Open IV,8
-49,1,koreanyardsale,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,7
-49,2,omenis,Cartel Aristocrat,Midrange,Orzhov,03/16/2024,Sanctuary Open IV,7
-49,3,infamousfridge,Ruin Crab,Combo,Blue,03/16/2024,Sanctuary Open IV,7
-49,4,stein._,"Zada, Hedron Grinder",Combo,Red,03/16/2024,Sanctuary Open IV,7
-49,Winner,koreanyardsale,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,7
-50,1,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,03/16/2024,Sanctuary Open IV,9
-50,2,aggro_aaron,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,9
-50,3,alkadron,Death-Rattle Oni,Control,Black,03/16/2024,Sanctuary Open IV,9
-50,4,puzzleboxdc,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-50,Winner,aggro_aaron,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,9
-51,1,koreanyardsale,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,10
-51,2,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,03/16/2024,Sanctuary Open IV,10
-51,3,ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,03/16/2024,Sanctuary Open IV,10
-51,4,aggro_aaron,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,10
-51,Winner,aggro_aaron,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,10
-52,1,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,6
-52,2,uyokonoyami,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,03/16/2024,Sanctuary Open IV,6
-52,3,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,6
-52,4,stein._,"Zada, Hedron Grinder",Combo,Red,03/16/2024,Sanctuary Open IV,6
-52,Winner,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,6
-53,1,_clay_,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,15
-53,2,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,03/16/2024,Sanctuary Open IV,15
-53,3,onemoregamemtg,"Malcolm, Keen-Eyed Navigator // Toggo, Goblin Weaponsmith",Control,Izzet,03/16/2024,Sanctuary Open IV,15
-53,4,omenis,Cartel Aristocrat,Midrange,Orzhov,03/16/2024,Sanctuary Open IV,15
-53,Winner,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,03/16/2024,Sanctuary Open IV,15
-54,1,baconmaster95,"Tatyova, Benthic Druid",Combo,Simic,03/16/2024,Sanctuary Open IV,13
-54,2,infamousfridge,Ruin Crab,Combo,Blue,03/16/2024,Sanctuary Open IV,13
-54,3,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,03/16/2024,Sanctuary Open IV,13
-54,4,koswynaut,"Alora, Merry Thief // Agent of the Shadow Thieves",Midrange,Dimir,03/16/2024,Sanctuary Open IV,13
-54,Winner,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,03/16/2024,Sanctuary Open IV,13
-55,1,puzzleboxdc,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-55,2,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,03/16/2024,Sanctuary Open IV,9
-55,3,1337dood,"Dargo, the Shipwrecker // Keskit, the Flesh Sculptor",Combo,Rakdos,03/16/2024,Sanctuary Open IV,9
-55,4,gatorbaittv,Azra Oddsmaker,Midrange,Rakdos,03/16/2024,Sanctuary Open IV,9
-55,Winner,gatorbaittv,Azra Oddsmaker,Midrange,Rakdos,03/16/2024,Sanctuary Open IV,9
-56,1,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,03/16/2024,Sanctuary Open IV,12
-56,2,tae314,"Erinis, Gloom Stalker // Street Urchin",Control,Gruul,03/16/2024,Sanctuary Open IV,12
-56,3,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,03/16/2024,Sanctuary Open IV,12
-56,4,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,03/16/2024,Sanctuary Open IV,12
-56,Winner,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,03/16/2024,Sanctuary Open IV,12
-57,1,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,03/16/2024,Sanctuary Open IV,13
-57,2,lobbert,Sphinx Summoner,Combo,Dimir,03/16/2024,Sanctuary Open IV,13
-57,3,eb_shinee,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,13
-57,4,alkadron,Death-Rattle Oni,Control,Black,03/16/2024,Sanctuary Open IV,13
-57,Winner,lobbert,Sphinx Summoner,Combo,Dimir,03/16/2024,Sanctuary Open IV,13
-58,1,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,10
-58,2,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,03/16/2024,Sanctuary Open IV,10
-58,3,aggro_aaron,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,10
-58,4,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,03/16/2024,Sanctuary Open IV,10
-58,Winner,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,10
-59,1,gatorbaittv,Azra Oddsmaker,Midrange,Rakdos,03/16/2024,Sanctuary Open IV,9
-59,2,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,9
-59,3,lobbert,Sphinx Summoner,Combo,Dimir,03/16/2024,Sanctuary Open IV,9
-59,4,koreanyardsale,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-59,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,9
-60,1,ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,03/16/2024,Sanctuary Open IV,12
-60,2,infamousfridge,Ruin Crab,Combo,Blue,03/16/2024,Sanctuary Open IV,12
-60,3,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,03/16/2024,Sanctuary Open IV,12
-60,4,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,03/16/2024,Sanctuary Open IV,12
-60,Winner,,DRAW,,,03/16/2024,Sanctuary Open IV,12
-61,1,omenis,Cartel Aristocrat,Midrange,Orzhov,03/16/2024,Sanctuary Open IV,11
-61,2,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,03/16/2024,Sanctuary Open IV,11
-61,3,tae314,"Erinis, Gloom Stalker // Street Urchin",Control,Gruul,03/16/2024,Sanctuary Open IV,11
-61,4,uyokonoyami,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,03/16/2024,Sanctuary Open IV,11
-61,Winner,uyokonoyami,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,03/16/2024,Sanctuary Open IV,11
-62,1,onemoregamemtg,"Malcolm, Keen-Eyed Navigator // Toggo, Goblin Weaponsmith",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-62,2,koswynaut,"Alora, Merry Thief // Agent of the Shadow Thieves",Midrange,Dimir,03/16/2024,Sanctuary Open IV,9
-62,3,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,03/16/2024,Sanctuary Open IV,9
-62,4,puzzleboxdc,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-62,Winner,puzzleboxdc,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-63,1,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,03/16/2024,Sanctuary Open IV,28
-63,2,alkadron,Death-Rattle Oni,Control,Black,03/16/2024,Sanctuary Open IV,28
-63,3,1337dood,"Dargo, the Shipwrecker // Keskit, the Flesh Sculptor",Combo,Rakdos,03/16/2024,Sanctuary Open IV,28
-63,4,_clay_,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,28
-63,Winner,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,03/16/2024,Sanctuary Open IV,28
-64,1,eb_shinee,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,7
-64,2,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,03/16/2024,Sanctuary Open IV,7
-64,3,stein._,"Zada, Hedron Grinder",Combo,Red,03/16/2024,Sanctuary Open IV,7
-64,4,,,,,03/16/2024,Sanctuary Open IV,7
-64,Winner,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,03/16/2024,Sanctuary Open IV,7
-65,1,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,03/16/2024,Sanctuary Open IV,0
-65,2,ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,03/16/2024,Sanctuary Open IV,0
-65,3,puzzleboxdc,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,0
-65,4,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,0
-65,Winner,ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,03/16/2024,Sanctuary Open IV,0
-66,1,stein._,"Zada, Hedron Grinder",Combo,Red,03/16/2024,Sanctuary Open IV,10
-66,2,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,10
-66,3,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,03/16/2024,Sanctuary Open IV,10
-66,4,aggro_aaron,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,10
-66,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,10
-67,1,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,03/16/2024,Sanctuary Open IV,8
-67,2,uyokonoyami,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,03/16/2024,Sanctuary Open IV,8
-67,3,lobbert,Sphinx Summoner,Combo,Dimir,03/16/2024,Sanctuary Open IV,8
-67,4,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,03/16/2024,Sanctuary Open IV,8
-67,Winner,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,03/16/2024,Sanctuary Open IV,8
-68,1,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,03/16/2024,Sanctuary Open IV,6
-68,2,gatorbaittv,Azra Oddsmaker,Midrange,Rakdos,03/16/2024,Sanctuary Open IV,6
-68,3,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,03/16/2024,Sanctuary Open IV,6
-68,4,,,,,03/16/2024,Sanctuary Open IV,6
-68,Winner,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,03/16/2024,Sanctuary Open IV,6
-69,1,alkadron,Death-Rattle Oni,Control,Black,03/16/2024,Sanctuary Open IV,9
-69,2,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,03/16/2024,Sanctuary Open IV,9
-69,3,koreanyardsale,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-69,4,,,,,03/16/2024,Sanctuary Open IV,9
-69,Winner,koreanyardsale,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,03/16/2024,Sanctuary Open IV,9
-70,1,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,9
-70,2,bray.bu,Gretchen Titchwillow,Combo,Simic,03/16/2024,Sanctuary Open IV,9
-70,3,ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,03/16/2024,Sanctuary Open IV,9
-70,4,aggro_aaron,"Syr Konrad, the Grim",Control,Black,03/16/2024,Sanctuary Open IV,9
-70,Winner,papa_pauper,Third Path Iconoclast,Midrange,Izzet,03/16/2024,Sanctuary Open IV,9
+1,1,CelticMajora,Satyr Enchanter,Midrange,Selesnya,5/13/2023,Sanctuary Open I,9
+1,2,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,5/13/2023,Sanctuary Open I,9
+1,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,9
+1,4,Chinaman,"Dargo, the Shipwrecker // Keleth, Sunmane Familiar",Voltron,Boros,5/13/2023,Sanctuary Open I,9
+1,Winner,Chinaman,"Dargo, the Shipwrecker // Keleth, Sunmane Familiar",Voltron,Boros,5/13/2023,Sanctuary Open I,9
+2,1,CardinalFrosty,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,9
+2,2,Manilamidget,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,9
+2,3,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,9
+2,4,Kunx,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,5/13/2023,Sanctuary Open I,9
+2,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,9
+3,1,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,5
+3,2,Ebshinee,"Fynn, the Fangbearer",Midrange,Green,5/13/2023,Sanctuary Open I,5
+3,3,Skorish,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,5
+3,4,Ariya,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,5
+3,Winner,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,5
+4,1,Jo,Parcelbeast,Combo,Simic,5/13/2023,Sanctuary Open I,9
+4,2,PapaPauper,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,9
+4,3,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,9
+4,4,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,9
+4,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,9
+5,1,PapaPauper,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,7
+5,2,Chinaman,"Dargo, the Shipwrecker // Keleth, Sunmane Familiar",Voltron,Boros,5/13/2023,Sanctuary Open I,7
+5,3,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,7
+5,4,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,7
+5,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,7
+6,1,Skorish,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,
+6,2,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,5/13/2023,Sanctuary Open I,
+6,3,Manilamidget,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,
+6,4,Jo,Parcelbeast,Combo,Simic,5/13/2023,Sanctuary Open I,
+6,Winner,,,,,5/13/2023,Sanctuary Open I, 
+7,1,CelticMajora,Satyr Enchanter,Midrange,Selesnya,5/13/2023,Sanctuary Open I,10
+7,2,Kunx,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,5/13/2023,Sanctuary Open I,10
+7,3,Ariya,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,10
+7,4,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,10
+7,Winner,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,10
+8,1,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,7
+8,2,Ebshinee,"Fynn, the Fangbearer",Midrange,Green,5/13/2023,Sanctuary Open I,7
+8,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,7
+8,4,CardinalFrosty,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,7
+8,Winner,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,7
+9,1,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,6
+9,2,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,6
+9,3,CardinalFrosty,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,6
+9,4,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,5/13/2023,Sanctuary Open I,6
+9,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,6
+10,1,Ariya,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,9
+10,2,Izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,9
+10,3,Manilamidget,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,9
+10,4,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,9
+10,Winner,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,9
+11,1,Jo,Parcelbeast,Combo,Simic,5/13/2023,Sanctuary Open I,
+11,2,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,
+11,3,CelticMajora,Satyr Enchanter,Midrange,Selesnya,5/13/2023,Sanctuary Open I,
+11,4,PapaPauper,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,
+11,Winner,,,,,5/13/2023,Sanctuary Open I,
+12,1,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,10
+12,2,Clay,"Dargo, the Shipwrecker // Malcolm, Keen-Eyed Navigator",Combo,Izzet,5/13/2023,Sanctuary Open I,10
+12,3,PapaPauper,Third Path Iconoclast,Midrange,Izzet,5/13/2023,Sanctuary Open I,10
+12,4,rusty_fuchs,Gretchen Titchwillow,Combo,Simic,5/13/2023,Sanctuary Open I,10
+12,Winner,Gatorbait,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,5/13/2023,Sanctuary Open I,10
+13,1,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,8/12/2023,Sanctuary Open II,7
+13,2,Clay,Third Path Iconoclast,Combo,Izzet,8/12/2023,Sanctuary Open II,7
+13,3,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,7
+13,4,stein,"Zada, Hedron Grinder",Combo,Red,8/12/2023,Sanctuary Open II,7
+13,Winner,stein,"Zada, Hedron Grinder",Combo,Red,8/12/2023,Sanctuary Open II,7
+14,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,8
+14,2,PapaPauper,Third Path Iconoclast,Midrange,Izzet,8/12/2023,Sanctuary Open II,8
+14,3,Scooby Drew,Marsh Crocodile,Control,Dimir,8/12/2023,Sanctuary Open II,8
+14,4,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,8/12/2023,Sanctuary Open II,8
+14,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,8
+15,1,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,14
+15,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Izzet,8/12/2023,Sanctuary Open II,14
+15,3,Ankylosaur,Gretchen Titchwillow,Combo,Simic,8/12/2023,Sanctuary Open II,14
+15,4,TonisBolognis,"Cormela, Glamour Thief",Combo,Grixis,8/12/2023,Sanctuary Open II,14
+15,Winner,,,,,8/12/2023,Sanctuary Open II,14
+16,1,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,5
+16,2,Chris OMG,"Garna, Bloodfist of Keld",Midrange,Rakdos,8/12/2023,Sanctuary Open II,5
+16,3,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,5
+16,4,,,,,8/12/2023,Sanctuary Open II,5
+16,Winner,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,5
+17,1,Ankylosaur,Gretchen Titchwillow,Combo,Simic,8/12/2023,Sanctuary Open II,9
+17,2,stein,"Zada, Hedron Grinder",Combo,Red,8/12/2023,Sanctuary Open II,9
+17,3,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,9
+17,4,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,9
+17,Winner,Ankylosaur,Gretchen Titchwillow,Combo,Simic,8/12/2023,Sanctuary Open II,9
+18,1,Chris OMG,"Garna, Bloodfist of Keld",Midrange,Rakdos,8/12/2023,Sanctuary Open II,9
+18,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,8/12/2023,Sanctuary Open II,9
+18,3,PapaPauper,Third Path Iconoclast,Midrange,Izzet,8/12/2023,Sanctuary Open II,9
+18,4,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,9
+18,Winner,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,8/12/2023,Sanctuary Open II,9
+19,1,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,8/12/2023,Sanctuary Open II,9
+19,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,9
+19,3,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,8/12/2023,Sanctuary Open II,9
+19,4,,,,,8/12/2023,Sanctuary Open II,9
+19,Winner,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,9
+20,1,TonisBolognis,"Cormela, Glamour Thief",Combo,Grixis,8/12/2023,Sanctuary Open II,12
+20,2,Clay,Third Path Iconoclast,Combo,Izzet,8/12/2023,Sanctuary Open II,12
+20,3,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,12
+20,4,,,,,8/12/2023,Sanctuary Open II,12
+20,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,12
+21,1,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,8/12/2023,Sanctuary Open II,7
+21,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,8/12/2023,Sanctuary Open II,7
+21,3,stein,"Zada, Hedron Grinder",Combo,Red,8/12/2023,Sanctuary Open II,7
+21,4,Kunx,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,7
+21,Winner,Aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,8/12/2023,Sanctuary Open II,7
+22,1,Clay,Third Path Iconoclast,Combo,Izzet,8/12/2023,Sanctuary Open II,6
+22,2,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,6
+22,3,Chris OMG,"Garna, Bloodfist of Keld",Midrange,Rakdos,8/12/2023,Sanctuary Open II,6
+22,4,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,6
+22,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,6
+23,1,PapaPauper,Third Path Iconoclast,Midrange,Izzet,8/12/2023,Sanctuary Open II,7
+23,2,Ankylosaur,Gretchen Titchwillow,Combo,Simic,8/12/2023,Sanctuary Open II,7
+23,3,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,8/12/2023,Sanctuary Open II,7
+23,4,,,,,8/12/2023,Sanctuary Open II,7
+23,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,8/12/2023,Sanctuary Open II,7
+24,1,Raevimati,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,6
+24,2,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,6
+24,3,TonisBolognis,"Cormela, Glamour Thief",Combo,Grixis,8/12/2023,Sanctuary Open II,6
+24,4,,,,,8/12/2023,Sanctuary Open II,6
+24,Winner,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,6
+25,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,8/12/2023,Sanctuary Open II,8
+25,2,Ankylosaur,Gretchen Titchwillow,Combo,Simic,8/12/2023,Sanctuary Open II,8
+25,3,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,8/12/2023,Sanctuary Open II,8
+25,4,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,8/12/2023,Sanctuary Open II,8
+25,Winner,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,8/12/2023,Sanctuary Open II,8
+26,1,InfamousFridge,"Kardur, Doomscourge",Control,Rakdos,11/4/2023,Sanctuary Open III,11
+26,2,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,11
+26,3,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/4/2023,Sanctuary Open III,11
+26,4,Lobbert,Thraben Watcher,Midrange,White,11/4/2023,Sanctuary Open III,11
+26,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,11
+27,1,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/4/2023,Sanctuary Open III,8
+27,2,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/4/2023,Sanctuary Open III,8
+27,3,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/4/2023,Sanctuary Open III,8
+27,4,Chaotic Chroma,Empyrean Eagle,Midrange,Azorius,11/4/2023,Sanctuary Open III,8
+27,Winner,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/4/2023,Sanctuary Open III,8
+28,1,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/4/2023,Sanctuary Open III,9
+28,2,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/4/2023,Sanctuary Open III,9
+28,3,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,11/4/2023,Sanctuary Open III,9
+28,4,Clay,Third Path Iconoclast,Combo,Izzet,11/4/2023,Sanctuary Open III,9
+28,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/4/2023,Sanctuary Open III,9
+29,1,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/4/2023,Sanctuary Open III,5
+29,2,Daxx,"Dina, Soul Steeper",Midrange,Golgari,11/4/2023,Sanctuary Open III,5
+29,3,budyfish,"Rilsa Rael, Kingpin",Control,Dimir,11/4/2023,Sanctuary Open III,5
+29,4,stein,"Zada, Hedron Grinder",Combo,Red,11/4/2023,Sanctuary Open III,5
+29,Winner,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/4/2023,Sanctuary Open III,5
+30,1,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/4/2023,Sanctuary Open III,9
+30,2,Lotad,Loyal Subordinate,Aggro,Black,11/4/2023,Sanctuary Open III,9
+30,3,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/4/2023,Sanctuary Open III,9
+30,4,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/4/2023,Sanctuary Open III,9
+30,Winner,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/4/2023,Sanctuary Open III,9
+31,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,6
+31,2,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/4/2023,Sanctuary Open III,6
+31,3,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/4/2023,Sanctuary Open III,6
+31,4,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/4/2023,Sanctuary Open III,6
+31,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,6
+32,1,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,11/4/2023,Sanctuary Open III,
+32,2,budyfish,"Rilsa Rael, Kingpin",Control,Dimir,11/4/2023,Sanctuary Open III,
+32,3,InfamousFridge,"Kardur, Doomscourge",Control,Rakdos,11/4/2023,Sanctuary Open III,
+32,4,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/4/2023,Sanctuary Open III,
+32,Winner,,,,,11/4/2023,Sanctuary Open III,
+33,1,Lotad,Loyal Subordinate,Aggro,Black,11/4/2023,Sanctuary Open III,7
+33,2,Lobbert,Thraben Watcher,Midrange,White,11/4/2023,Sanctuary Open III,7
+33,3,Clay,Third Path Iconoclast,Combo,Izzet,11/4/2023,Sanctuary Open III,7
+33,4,Daxx,"Dina, Soul Steeper",Midrange,Golgari,11/4/2023,Sanctuary Open III,7
+33,Winner,Lotad,Loyal Subordinate,Aggro,Black,11/4/2023,Sanctuary Open III,7
+34,1,Chaotic Chroma,Empyrean Eagle,Midrange,Azorius,11/4/2023,Sanctuary Open III,6
+34,2,stein,"Zada, Hedron Grinder",Combo,Red,11/4/2023,Sanctuary Open III,6
+34,3,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/4/2023,Sanctuary Open III,6
+34,4,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/4/2023,Sanctuary Open III,6
+34,Winner,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/4/2023,Sanctuary Open III,6
+35,1,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/4/2023,Sanctuary Open III,5
+35,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/4/2023,Sanctuary Open III,5
+35,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/4/2023,Sanctuary Open III,5
+35,4,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/4/2023,Sanctuary Open III,5
+35,Winner,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/4/2023,Sanctuary Open III,5
+36,1,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/4/2023,Sanctuary Open III,10
+36,2,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/4/2023,Sanctuary Open III,10
+36,3,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,10
+36,4,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/4/2023,Sanctuary Open III,10
+36,Winner,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/4/2023,Sanctuary Open III,10
+37,1,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/4/2023,Sanctuary Open III,8
+37,2,Lotad,Loyal Subordinate,Aggro,Black,11/4/2023,Sanctuary Open III,8
+37,3,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/4/2023,Sanctuary Open III,8
+37,4,Izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,11/4/2023,Sanctuary Open III,8
+37,Winner,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/4/2023,Sanctuary Open III,8
+38,1,Clay,Third Path Iconoclast,Combo,Izzet,11/4/2023,Sanctuary Open III,9
+38,2,stein,"Zada, Hedron Grinder",Combo,Red,11/4/2023,Sanctuary Open III,9
+38,3,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/4/2023,Sanctuary Open III,9
+38,4,InfamousFridge,"Kardur, Doomscourge",Control,Rakdos,11/4/2023,Sanctuary Open III,9
+38,Winner,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/4/2023,Sanctuary Open III,9
+39,1,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/4/2023,Sanctuary Open III,6
+39,2,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/4/2023,Sanctuary Open III,6
+39,3,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/4/2023,Sanctuary Open III,6
+39,4,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/4/2023,Sanctuary Open III,6
+39,Winner,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/4/2023,Sanctuary Open III,6
+40,1,stein,"Zada, Hedron Grinder",Combo,Red,11/4/2023,Sanctuary Open III,
+40,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,11/4/2023,Sanctuary Open III,
+40,3,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/4/2023,Sanctuary Open III,
+40,4,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/4/2023,Sanctuary Open III,
+40,Winner,,,,,11/4/2023,Sanctuary Open III,
+41,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,5
+41,2,TonisBolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,11/4/2023,Sanctuary Open III,5
+41,3,Puzzlebox,Gretchen Titchwillow,Combo,Simic,11/4/2023,Sanctuary Open III,5
+41,4,Omenis,Cartel Aristocrat,Voltron,Orzhov,11/4/2023,Sanctuary Open III,5
+41,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,5
+42,1,Xrlylyl,"Malcolm, Keen-Eyed Navigator // Rograkh, Son of Rohgahh",Combo,Izzet,11/4/2023,Sanctuary Open III,9
+42,2,Mini CJ,"Dargo, the Shipwrecker // Kediss, Emberclaw Familiar",Aggro,Red,11/4/2023,Sanctuary Open III,9
+42,3,Aaron,"Juri, Master of Revue",Aggro,Rakdos,11/4/2023,Sanctuary Open III,9
+42,4,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/4/2023,Sanctuary Open III,9
+42,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/4/2023,Sanctuary Open III,9
+43,1,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,3
+43,2,Chinaman,"Ardenn, Intrepid Archaeologist // Malcolm, Keen-Eyed Navigator",Combo,Azorius,11/4/2023,Sanctuary Open III,3
+43,3,Ankylosaur,Satyr Enchanter,Midrange,Selesnya,11/4/2023,Sanctuary Open III,3
+43,4,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,11/4/2023,Sanctuary Open III,3
+43,Winner,Gatorbait,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,11/4/2023,Sanctuary Open III,3
+44,1,koswynaut,"Alora, Merry Thief // Agent of the Shadow Thieves",Midrange,Dimir,3/16/2024,Sanctuary Open IV,11
+44,2,tae314,"Erinis, Gloom Stalker // Street Urchin",Control,Gruul,3/16/2024,Sanctuary Open IV,11
+44,3,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,11
+44,4,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,3/16/2024,Sanctuary Open IV,11
+44,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,11
+45,1,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,3/16/2024,Sanctuary Open IV,10
+45,2,Clay,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,10
+45,3,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,3/16/2024,Sanctuary Open IV,10
+45,4,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,3/16/2024,Sanctuary Open IV,10
+45,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,3/16/2024,Sanctuary Open IV,10
+46,1,Ebshinee,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,10
+46,2,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,10
+46,3,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,3/16/2024,Sanctuary Open IV,10
+46,4,1337dood,"Dargo, the Shipwrecker // Keskit, the Flesh Sculptor",Combo,Rakdos,3/16/2024,Sanctuary Open IV,10
+46,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,10
+47,1,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,3/16/2024,Sanctuary Open IV,9
+47,2,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,3/16/2024,Sanctuary Open IV,9
+47,3,Gatorbait,Azra Oddsmaker,Midrange,Rakdos,3/16/2024,Sanctuary Open IV,9
+47,4,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,3/16/2024,Sanctuary Open IV,9
+47,Winner,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,3/16/2024,Sanctuary Open IV,9
+48,1,Lobbert,Sphinx Summoner,Combo,Dimir,3/16/2024,Sanctuary Open IV,8
+48,2,Ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,3/16/2024,Sanctuary Open IV,8
+48,3,Chris OMG,"Malcolm, Keen-Eyed Navigator // Toggo, Goblin Weaponsmith",Control,Izzet,3/16/2024,Sanctuary Open IV,8
+48,4,baconmaster95,"Tatyova, Benthic Druid",Combo,Simic,3/16/2024,Sanctuary Open IV,8
+48,Winner,Ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,3/16/2024,Sanctuary Open IV,8
+49,1,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,7
+49,2,Omenis,Cartel Aristocrat,Midrange,Orzhov,3/16/2024,Sanctuary Open IV,7
+49,3,InfamousFridge,Ruin Crab,Combo,Blue,3/16/2024,Sanctuary Open IV,7
+49,4,Stein,"Zada, Hedron Grinder",Combo,Red,3/16/2024,Sanctuary Open IV,7
+49,Winner,stein,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,7
+50,1,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,3/16/2024,Sanctuary Open IV,9
+50,2,Aaron,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,9
+50,3,alkadron,Death-Rattle Oni,Control,Black,3/16/2024,Sanctuary Open IV,9
+50,4,Puzzlebox,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+50,Winner,Aaron,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,9
+51,1,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,10
+51,2,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,3/16/2024,Sanctuary Open IV,10
+51,3,Ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,3/16/2024,Sanctuary Open IV,10
+51,4,Aaron,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,10
+51,Winner,Aaron,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,10
+52,1,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,6
+52,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,3/16/2024,Sanctuary Open IV,6
+52,3,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,6
+52,4,stein,"Zada, Hedron Grinder",Combo,Red,3/16/2024,Sanctuary Open IV,6
+52,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,6
+53,1,Clay,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,15
+53,2,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,3/16/2024,Sanctuary Open IV,15
+53,3,Chris OMG,"Malcolm, Keen-Eyed Navigator // Toggo, Goblin Weaponsmith",Control,Izzet,3/16/2024,Sanctuary Open IV,15
+53,4,Omenis,Cartel Aristocrat,Midrange,Orzhov,3/16/2024,Sanctuary Open IV,15
+53,Winner,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,3/16/2024,Sanctuary Open IV,15
+54,1,baconmaster95,"Tatyova, Benthic Druid",Combo,Simic,3/16/2024,Sanctuary Open IV,13
+54,2,InfamousFridge,Ruin Crab,Combo,Blue,3/16/2024,Sanctuary Open IV,13
+54,3,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,3/16/2024,Sanctuary Open IV,13
+54,4,koswynaut,"Alora, Merry Thief // Agent of the Shadow Thieves",Midrange,Dimir,3/16/2024,Sanctuary Open IV,13
+54,Winner,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,3/16/2024,Sanctuary Open IV,13
+55,1,Puzzlebox,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+55,2,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,3/16/2024,Sanctuary Open IV,9
+55,3,1337dood,"Dargo, the Shipwrecker // Keskit, the Flesh Sculptor",Combo,Rakdos,3/16/2024,Sanctuary Open IV,9
+55,4,Gatorbait,Azra Oddsmaker,Midrange,Rakdos,3/16/2024,Sanctuary Open IV,9
+55,Winner,Gatorbait,Azra Oddsmaker,Midrange,Rakdos,3/16/2024,Sanctuary Open IV,9
+56,1,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,3/16/2024,Sanctuary Open IV,12
+56,2,tae314,"Erinis, Gloom Stalker // Street Urchin",Control,Gruul,3/16/2024,Sanctuary Open IV,12
+56,3,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,3/16/2024,Sanctuary Open IV,12
+56,4,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,3/16/2024,Sanctuary Open IV,12
+56,Winner,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,3/16/2024,Sanctuary Open IV,12
+57,1,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,3/16/2024,Sanctuary Open IV,13
+57,2,Lobbert,Sphinx Summoner,Combo,Dimir,3/16/2024,Sanctuary Open IV,13
+57,3,Ebshinee,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,13
+57,4,Alkadron,Death-Rattle Oni,Control,Black,3/16/2024,Sanctuary Open IV,13
+57,Winner,Lobbert,Sphinx Summoner,Combo,Dimir,3/16/2024,Sanctuary Open IV,13
+58,1,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,10
+58,2,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,3/16/2024,Sanctuary Open IV,10
+58,3,Aaron,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,10
+58,4,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,3/16/2024,Sanctuary Open IV,10
+58,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,10
+59,1,Gatorbait,Azra Oddsmaker,Midrange,Rakdos,3/16/2024,Sanctuary Open IV,9
+59,2,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,9
+59,3,Lobbert,Sphinx Summoner,Combo,Dimir,3/16/2024,Sanctuary Open IV,9
+59,4,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+59,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,9
+60,1,Ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,3/16/2024,Sanctuary Open IV,12
+60,2,InfamousFridge,Ruin Crab,Combo,Blue,3/16/2024,Sanctuary Open IV,12
+60,3,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,3/16/2024,Sanctuary Open IV,12
+60,4,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,3/16/2024,Sanctuary Open IV,12
+60,Winner,,,,,3/16/2024,Sanctuary Open IV,12
+61,1,Omenis,Cartel Aristocrat,Midrange,Orzhov,3/16/2024,Sanctuary Open IV,11
+61,2,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,3/16/2024,Sanctuary Open IV,11
+61,3,tae314,"Erinis, Gloom Stalker // Street Urchin",Control,Gruul,3/16/2024,Sanctuary Open IV,11
+61,4,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,3/16/2024,Sanctuary Open IV,11
+61,Winner,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,3/16/2024,Sanctuary Open IV,11
+62,1,Chris OMG,"Malcolm, Keen-Eyed Navigator // Toggo, Goblin Weaponsmith",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+62,2,koswynaut,"Alora, Merry Thief // Agent of the Shadow Thieves",Midrange,Dimir,3/16/2024,Sanctuary Open IV,9
+62,3,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,3/16/2024,Sanctuary Open IV,9
+62,4,Puzzlebox,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+62,Winner,Puzzlebox,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+63,1,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,3/16/2024,Sanctuary Open IV,28
+63,2,Alkadron,Death-Rattle Oni,Control,Black,3/16/2024,Sanctuary Open IV,28
+63,3,1337dood,"Dargo, the Shipwrecker // Keskit, the Flesh Sculptor",Combo,Rakdos,3/16/2024,Sanctuary Open IV,28
+63,4,Clay,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,28
+63,Winner,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,3/16/2024,Sanctuary Open IV,28
+64,1,Ebshinee,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,7
+64,2,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,3/16/2024,Sanctuary Open IV,7
+64,3,stein,"Zada, Hedron Grinder",Combo,Red,3/16/2024,Sanctuary Open IV,7
+64,4,,,,,3/16/2024,Sanctuary Open IV,7
+64,Winner,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,3/16/2024,Sanctuary Open IV,7
+65,1,magusofthejank,"Ich-Tekik, Salvage Splicer // Malcolm, Keen-Eyed Navigator",Combo,Simic,3/16/2024,Sanctuary Open IV,0
+65,2,Ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,3/16/2024,Sanctuary Open IV,0
+65,3,Puzzlebox,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,0
+65,4,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,0
+65,Winner,Ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,3/16/2024,Sanctuary Open IV,0
+66,1,stein,"Zada, Hedron Grinder",Combo,Red,3/16/2024,Sanctuary Open IV,10
+66,2,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,10
+66,3,southlakesvibes,"Raff, Weatherlight Stalwart",Midrange,Azorius,3/16/2024,Sanctuary Open IV,10
+66,4,Aaron,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,10
+66,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,10
+67,1,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,3/16/2024,Sanctuary Open IV,8
+67,2,Yamijisan,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,3/16/2024,Sanctuary Open IV,8
+67,3,Lobbert,Sphinx Summoner,Combo,Dimir,3/16/2024,Sanctuary Open IV,8
+67,4,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,3/16/2024,Sanctuary Open IV,8
+67,Winner,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,3/16/2024,Sanctuary Open IV,8
+68,1,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,3/16/2024,Sanctuary Open IV,6
+68,2,Gatorbait,Azra Oddsmaker,Midrange,Rakdos,3/16/2024,Sanctuary Open IV,6
+68,3,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,3/16/2024,Sanctuary Open IV,6
+68,4,,,,,3/16/2024,Sanctuary Open IV,6
+68,Winner,Kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,3/16/2024,Sanctuary Open IV,6
+69,1,Alkadron,Death-Rattle Oni,Control,Black,3/16/2024,Sanctuary Open IV,9
+69,2,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,3/16/2024,Sanctuary Open IV,9
+69,3,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+69,4,,,,,3/16/2024,Sanctuary Open IV,9
+69,Winner,Jo,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,3/16/2024,Sanctuary Open IV,9
+70,1,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,9
+70,2,bray.bu,Gretchen Titchwillow,Combo,Simic,3/16/2024,Sanctuary Open IV,9
+70,3,Ankylosaur,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,3/16/2024,Sanctuary Open IV,9
+70,4,Aaron,"Syr Konrad, the Grim",Control,Black,3/16/2024,Sanctuary Open IV,9
+70,Winner,PapaPauper,Third Path Iconoclast,Midrange,Izzet,3/16/2024,Sanctuary Open IV,9

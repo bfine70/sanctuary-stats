@@ -219,7 +219,7 @@ Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
 44,3,bray.bu,Gretchen Titchwillow,Combo,Simic,2024-03-16,Sanctuary Open IV,11
 44,4,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,2024-03-16,Sanctuary Open IV,11
 44,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,2024-03-16,Sanctuary Open IV,11
-45,1,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,10
+45,1,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,10
 45,2,_clay_,"Syr Konrad, the Grim",Control,Black,2024-03-16,Sanctuary Open IV,10
 45,3,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,2024-03-16,Sanctuary Open IV,10
 45,4,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-03-16,Sanctuary Open IV,10
@@ -266,9 +266,9 @@ Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
 53,Winner,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,2024-03-16,Sanctuary Open IV,15
 54,1,baconmaster95,"Tatyova, Benthic Druid",Combo,Simic,2024-03-16,Sanctuary Open IV,13
 54,2,infamousfridge,Ruin Crab,Combo,Blue,2024-03-16,Sanctuary Open IV,13
-54,3,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,13
+54,3,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,13
 54,4,koswynaut,"Alora, Merry Thief // Agent of the Shadow Thieves",Midrange,Dimir,2024-03-16,Sanctuary Open IV,13
-54,Winner,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,13
+54,Winner,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,13
 55,1,puzzleboxdc,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-03-16,Sanctuary Open IV,9
 55,2,p.otionseller,"Abdel Adrian, Gorion's Ward // Street Urchin",Midrange,Boros,2024-03-16,Sanctuary Open IV,9
 55,3,1337dood,"Dargo, the Shipwrecker // Keskit, the Flesh Sculptor",Combo,Rakdos,2024-03-16,Sanctuary Open IV,9
@@ -287,7 +287,7 @@ Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
 58,1,papa_pauper,Third Path Iconoclast,Midrange,Izzet,2024-03-16,Sanctuary Open IV,10
 58,2,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,2024-03-16,Sanctuary Open IV,10
 58,3,aggro_aaron,"Syr Konrad, the Grim",Control,Black,2024-03-16,Sanctuary Open IV,10
-58,4,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,10
+58,4,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,10
 58,Winner,papa_pauper,Third Path Iconoclast,Midrange,Izzet,2024-03-16,Sanctuary Open IV,10
 59,1,gatorbaittv,Azra Oddsmaker,Midrange,Rakdos,2024-03-16,Sanctuary Open IV,9
 59,2,bray.bu,Gretchen Titchwillow,Combo,Simic,2024-03-16,Sanctuary Open IV,9
@@ -329,11 +329,11 @@ Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
 66,3,beninthebath,"Raff, Weatherlight Stalwart",Midrange,Azorius,2024-03-16,Sanctuary Open IV,10
 66,4,aggro_aaron,"Syr Konrad, the Grim",Control,Black,2024-03-16,Sanctuary Open IV,10
 66,Winner,bray.bu,Gretchen Titchwillow,Combo,Simic,2024-03-16,Sanctuary Open IV,10
-67,1,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,8
+67,1,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,8
 67,2,uyokonoyami,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,2024-03-16,Sanctuary Open IV,8
 67,3,lobbert,Sphinx Summoner,Combo,Dimir,2024-03-16,Sanctuary Open IV,8
 67,4,addicted2soda,Rasaad yn Bashir // Feywild Visitor,Aggro,Azorius,2024-03-16,Sanctuary Open IV,8
-67,Winner,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,8
+67,Winner,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Voltron,Selesnya,2024-03-16,Sanctuary Open IV,8
 68,1,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-03-16,Sanctuary Open IV,6
 68,2,gatorbaittv,Azra Oddsmaker,Midrange,Rakdos,2024-03-16,Sanctuary Open IV,6
 68,3,breninllwyd,"Killian, Ink Duelist",Control,Orzhov,2024-03-16,Sanctuary Open IV,6
@@ -361,7 +361,7 @@ Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
 72,Winner,,,,,2024-05-18,Sanctuary Open V,
 73,1,lobbert,Sphinx Summoner,Combo,Dimir,2024-05-18,Sanctuary Open V,9
 73,2,braddracv,"Minthara, Merciless Soul",Midrange,Orzhov,2024-05-18,Sanctuary Open V,9
-73,3,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,9
+73,3,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,9
 73,4,eddiefiv,Mayhem Devil,Control,Rakdos,2024-05-18,Sanctuary Open V,9
 73,Winner,eddiefiv,Mayhem Devil,Control,Rakdos,2024-05-18,Sanctuary Open V,9
 74,1,izlain,"Sivriss, Nightmare Speaker // Cloakwood Hermit",Midrange,Golgari,2024-05-18,Sanctuary Open V,
@@ -386,7 +386,7 @@ Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
 77,Winner,koreanyardsale,Hollow Marauder,Combo,Black,2024-05-18,Sanctuary Open V,9
 78,1,xrlylyl,Gretchen Titchwillow,Combo,Simic,2024-05-18,Sanctuary Open V,6
 78,2,havokhammer,"Abdel Adrian, Gorion's Ward // Dungeon Delver",Combo,Azorius,2024-05-18,Sanctuary Open V,6
-78,3,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,6
+78,3,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,6
 78,4,lil_rad_lotad,Loyal Subordinate,Aggro,Black,2024-05-18,Sanctuary Open V,6
 78,Winner,xrlylyl,Gretchen Titchwillow,Combo,Simic,2024-05-18,Sanctuary Open V,6
 79,1,beninthebath,"Ardenn, Intrepid Archaeologist // Gilanra, Caller of Wirewood",Midrange,Selesnya,2024-05-18,Sanctuary Open V,9
@@ -424,13 +424,118 @@ Game,Player,Name,Commander,Archetype,Color,Date,Event,Turns
 85,3,eddiefiv,Mayhem Devil,Control,Rakdos,2024-05-18,Sanctuary Open V,13
 85,4,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,2024-05-18,Sanctuary Open V,13
 85,Winner,beachbodgod69,Mystic Enforcer,Voltron,Selesnya,2024-05-18,Sanctuary Open V,13
-86,1,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,12
+86,1,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,12
 86,2,magusofthejank,"Trelasarra, Moon Dancer",Midrange,Selesnya,2024-05-18,Sanctuary Open V,12
 86,3,potestasnecis,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-05-18,Sanctuary Open V,12
 86,4,aggro_aaron,"Syr Konrad, the Grim",Control,Black,2024-05-18,Sanctuary Open V,12
-86,Winner,residenthivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,12
+86,Winner,hivecryptid,"Wilson, Refined Grizzly // Far Traveler",Midrange,Selesnya,2024-05-18,Sanctuary Open V,12
 87,1,landi__,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Combo,Izzet,2024-05-18,Sanctuary Open V,7
 87,2,karnatheon,Gretchen Titchwillow,Combo,Simic,2024-05-18,Sanctuary Open V,7
 87,3,tonisbolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,2024-05-18,Sanctuary Open V,7
 87,4,xrlylyl,Gretchen Titchwillow,Combo,Simic,2024-05-18,Sanctuary Open V,7
 87,Winner,xrlylyl,Gretchen Titchwillow,Combo,Simic,2024-05-18,Sanctuary Open V,7
+88,1,beninthebath,"Raff, Weatherlight Stalwart",Control,Azorius,2024-07-20,Sanctuary Open VI,11
+88,2,ankylosaur,Vizkopa Guildmage,Combo,Orzhov,2024-07-20,Sanctuary Open VI,11
+88,3,izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,2024-07-20,Sanctuary Open VI,11
+88,4,purplepenguinjo,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-07-20,Sanctuary Open VI,11
+88,Winner,ankylosaur,Vizkopa Guildmage,Combo,Orzhov,2024-07-20,Sanctuary Open VI,11
+89,1,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-07-20,Sanctuary Open VI,11
+89,2,budyfish,"Rilsa Rael, Kingpin",Midrange,Dimir,2024-07-20,Sanctuary Open VI,11
+89,3,cool_clarky,"Alexios, Deimos of Kosmos",Voltron,Red,2024-07-20,Sanctuary Open VI,11
+89,4,magusofthejank,Contraband Kingpin,Combo,Dimir,2024-07-20,Sanctuary Open VI,11
+89,Winner,budyfish,"Rilsa Rael, Kingpin",Midrange,Dimir,2024-07-20,Sanctuary Open VI,11
+90,1,stein._,"Zada, Hedron Grinder",Combo,Red,2024-07-20,Sanctuary Open VI,9
+90,2,puzzleboxdc,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,9
+90,3,fallenseraphiel,"Kutzil, Malamet Exemplar",Aggro,Selesnya,2024-07-20,Sanctuary Open VI,9
+90,4,xrlylyl,"Tatyova, Benthic Druid",Combo,Simic,2024-07-20,Sanctuary Open VI,9
+90,Winner,fallenseraphiel,"Kutzil, Malamet Exemplar",Aggro,Selesnya,2024-07-20,Sanctuary Open VI,9
+91,1,potestasnecis,"Cormela, Glamour Thief",Combo,Grixis,2024-07-20,Sanctuary Open VI,9
+91,2,lil_rad_lotad,"Kediss, Emberclaw Familiar // Keleth, Sunmane Familiar",Voltron,Boros,2024-07-20,Sanctuary Open VI,9
+91,3,chumguzzler666,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,9
+91,4,awesomerusco,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,2024-07-20,Sanctuary Open VI,9
+91,Winner,awesomerusco,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,2024-07-20,Sanctuary Open VI,9
+92,1,aggro_aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,2024-07-20,Sanctuary Open VI,5
+92,2,_clay_,Third Path Iconoclast,Combo,Izzet,2024-07-20,Sanctuary Open VI,5
+92,3,gatorbaittv,Ley Weaver // Lore Weaver,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+92,4,tonisbolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,2024-07-20,Sanctuary Open VI,5
+92,Winner,gatorbaittv,Ley Weaver // Lore Weaver,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+93,1,lobbert,Thraben Watcher,Aggro,White,2024-07-20,Sanctuary Open VI,10
+93,2,packrat17,Dragon's Rage Channeler,Aggro,Red,2024-07-20,Sanctuary Open VI,10
+93,3,landi__,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,10
+93,4,onemoregamemtg,"Teshar, Ancestor's Apostle",Combo,White,2024-07-20,Sanctuary Open VI,10
+93,Winner,lobbert,Thraben Watcher,Aggro,White,2024-07-20,Sanctuary Open VI,10
+94,1,infamousfridge,Ruin Crab,Combo,Blue,2024-07-20,Sanctuary Open VI,9
+94,2,nyc_sandwich,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,9
+94,3,alkadron,Death-Rattle Oni,Control,Black,2024-07-20,Sanctuary Open VI,9
+94,4,braddracv,Risen Reef,Midrange,Simic,2024-07-20,Sanctuary Open VI,9
+94,Winner,alkadron,Death-Rattle Oni,Control,Black,2024-07-20,Sanctuary Open VI,9
+95,1,awesomerusco,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,2024-07-20,Sanctuary Open VI,9
+95,2,budyfish,"Rilsa Rael, Kingpin",Midrange,Dimir,2024-07-20,Sanctuary Open VI,9
+95,3,fallenseraphiel,"Kutzil, Malamet Exemplar",Aggro,Selesnya,2024-07-20,Sanctuary Open VI,9
+95,4,ankylosaur,Vizkopa Guildmage,Combo,Orzhov,2024-07-20,Sanctuary Open VI,9
+95,Winner,fallenseraphiel,"Kutzil, Malamet Exemplar",Aggro,Selesnya,2024-07-20,Sanctuary Open VI,9
+96,1,lobbert,Thraben Watcher,Aggro,White,2024-07-20,Sanctuary Open VI,5
+96,2,gatorbaittv,Ley Weaver // Lore Weaver,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+96,3,alkadron,Death-Rattle Oni,Control,Black,2024-07-20,Sanctuary Open VI,5
+96,4,chumguzzler666,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+96,Winner,chumguzzler666,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+97,1,stein._,"Zada, Hedron Grinder",Combo,Red,2024-07-20,Sanctuary Open VI,8
+97,2,tonisbolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,2024-07-20,Sanctuary Open VI,8
+97,3,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-07-20,Sanctuary Open VI,8
+97,4,purplepenguinjo,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-07-20,Sanctuary Open VI,8
+97,Winner,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-07-20,Sanctuary Open VI,8
+98,1,xrlylyl,"Tatyova, Benthic Druid",Combo,Simic,2024-07-20,Sanctuary Open VI,8
+98,2,landi__,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,8
+98,3,izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,2024-07-20,Sanctuary Open VI,8
+98,4,_clay_,Third Path Iconoclast,Combo,Izzet,2024-07-20,Sanctuary Open VI,8
+98,Winner,landi__,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,8
+99,1,magusofthejank,Contraband Kingpin,Combo,Dimir,2024-07-20,Sanctuary Open VI,11
+99,2,braddracv,Risen Reef,Midrange,Simic,2024-07-20,Sanctuary Open VI,11
+99,3,aggro_aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,2024-07-20,Sanctuary Open VI,11
+99,4,beninthebath,"Raff, Weatherlight Stalwart",Control,Azorius,2024-07-20,Sanctuary Open VI,11
+99,Winner,,,,,2024-07-20,Sanctuary Open VI,11
+100,1,puzzleboxdc,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,9
+100,2,cool_clarky,"Alexios, Deimos of Kosmos",Voltron,Red,2024-07-20,Sanctuary Open VI,9
+100,3,infamousfridge,Ruin Crab,Combo,Blue,2024-07-20,Sanctuary Open VI,9
+100,4,potestasnecis,"Cormela, Glamour Thief",Combo,Grixis,2024-07-20,Sanctuary Open VI,9
+100,Winner,puzzleboxdc,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,9
+101,1,lil_rad_lotad,"Kediss, Emberclaw Familiar // Keleth, Sunmane Familiar",Voltron,Boros,2024-07-20,Sanctuary Open VI,9
+101,2,onemoregamemtg,"Teshar, Ancestor's Apostle",Combo,White,2024-07-20,Sanctuary Open VI,9
+101,3,nyc_sandwich,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,9
+101,4,packrat17,Dragon's Rage Channeler,Aggro,Red,2024-07-20,Sanctuary Open VI,9
+101,Winner,nyc_sandwich,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,9
+102,1,fallenseraphiel,"Kutzil, Malamet Exemplar",Aggro,Selesnya,2024-07-20,Sanctuary Open VI,6
+102,2,nyc_sandwich,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,6
+102,3,landi__,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,6
+102,4,kunx,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-07-20,Sanctuary Open VI,6
+102,Winner,landi__,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,6
+103,1,ankylosaur,Vizkopa Guildmage,Combo,Orzhov,2024-07-20,Sanctuary Open VI,5
+103,2,braddracv,Risen Reef,Midrange,Simic,2024-07-20,Sanctuary Open VI,5
+103,3,gatorbaittv,Ley Weaver // Lore Weaver,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+103,4,puzzleboxdc,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+103,Winner,gatorbaittv,Ley Weaver // Lore Weaver,Combo,Simic,2024-07-20,Sanctuary Open VI,5
+104,1,alkadron,Death-Rattle Oni,Control,Black,2024-07-20,Sanctuary Open VI,13
+104,2,awesomerusco,"Abdel Adrian, Gorion's Ward // Agent of the Iron Throne",Midrange,Orzhov,2024-07-20,Sanctuary Open VI,13
+104,3,_clay_,Third Path Iconoclast,Combo,Izzet,2024-07-20,Sanctuary Open VI,13
+104,4,beninthebath,"Raff, Weatherlight Stalwart",Control,Azorius,2024-07-20,Sanctuary Open VI,13
+104,Winner,beninthebath,"Raff, Weatherlight Stalwart",Control,Azorius,2024-07-20,Sanctuary Open VI,13
+105,1,purplepenguinjo,"Abdel Adrian, Gorion's Ward // Sword Coast Sailor",Combo,Azorius,2024-07-20,Sanctuary Open VI,
+105,2,aggro_aaron,"Gut, True Soul Zealot // Inspiring Leader",Aggro,Boros,2024-07-20,Sanctuary Open VI,
+105,3,budyfish,"Rilsa Rael, Kingpin",Midrange,Dimir,2024-07-20,Sanctuary Open VI,
+105,4,lobbert,Thraben Watcher,Aggro,White,2024-07-20,Sanctuary Open VI,
+105,Winner,budyfish,"Rilsa Rael, Kingpin",Midrange,Dimir,2024-07-20,Sanctuary Open VI,
+106,1,chumguzzler666,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,9
+106,2,magusofthejank,Contraband Kingpin,Combo,Dimir,2024-07-20,Sanctuary Open VI,9
+106,3,izlain,"Kediss, Emberclaw Familiar // Malcolm, Keen-Eyed Navigator",Combo,Izzet,2024-07-20,Sanctuary Open VI,9
+106,4,tonisbolognis,"Vhal, Candlekeep Researcher // Agent of the Shadow Thieves",Combo,Dimir,2024-07-20,Sanctuary Open VI,9
+106,Winner,chumguzzler666,Gretchen Titchwillow,Combo,Simic,2024-07-20,Sanctuary Open VI,9
+107,1,packrat17,Dragon's Rage Channeler,Aggro,Red,2024-07-20,Sanctuary Open VI,9
+107,2,cool_clarky,"Alexios, Deimos of Kosmos",Voltron,Red,2024-07-20,Sanctuary Open VI,9
+107,3,stein._,"Zada, Hedron Grinder",Combo,Red,2024-07-20,Sanctuary Open VI,9
+107,4,xrlylyl,"Tatyova, Benthic Druid",Combo,Simic,2024-07-20,Sanctuary Open VI,9
+107,Winner,packrat17,Dragon's Rage Channeler,Aggro,Red,2024-07-20,Sanctuary Open VI,9
+108,1,fallenseraphiel,"Kutzil, Malamet Exemplar",Aggro,Selesnya,2024-07-20,Sanctuary Open VI,6
+108,2,budyfish,"Rilsa Rael, Kingpin",Midrange,Dimir,2024-07-20,Sanctuary Open VI,6
+108,3,landi__,"Breeches, Brazen Plunderer // Malcolm, Keen-Eyed Navigator",Control,Izzet,2024-07-20,Sanctuary Open VI,6
+108,4,gatorbaittv,Ley Weaver // Lore Weaver,Combo,Simic,2024-07-20,Sanctuary Open VI,6
+108,Winner,gatorbaittv,Ley Weaver // Lore Weaver,Combo,Simic,2024-07-20,Sanctuary Open VI,6
